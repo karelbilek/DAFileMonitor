@@ -22,6 +22,7 @@ This is a wrapper library around dispatch sources that monitors the file system 
   s.social_media_url = 'https://twitter.com/dagostin'
 
   s.ios.deployment_target = '8.0'
+  s.macos.deployment_target = '10.14'
 
   s.source_files = 'DAFileMonitor/Classes/**/*'
 
